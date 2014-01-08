@@ -1,4 +1,2 @@
-constraint-relationships
-========================
-
-Constraint Relationships
+Please inspect test/usage.example.SimpleUsageTest for a small example that
+illustrates constraint relationships 
